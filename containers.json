@@ -1,0 +1,8 @@
+{
+  "react": {
+    "image": ":react-service.react-container.4",
+    "ports": {
+      "80": "HTTP"
+    }
+  }
+}
